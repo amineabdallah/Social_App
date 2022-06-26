@@ -1,0 +1,23 @@
+
+
+
+todo
+
+1. add role Controller
+2. get all role action : get all type of roles ( ADMIN,MEMBER,....)
+                         get all ADMIN/MEMBER table USER_ROLE
+                         ADD CREATE and DELETE ROLE TO role Controller
+5. *SEND VERIFICATION MAIL while INSCRIPTION OF NEW user
+        /*******************************************/
+
+5.1. mail properties ERROR
+3. CREATE all requirement for "reply to a comment"
+4. bad words filter
+
+6. web socket "CHAT"
+7. methode that return number of likes per posts (with post id)
+8. methode that return number of likes per posts (without post id /*** all posts ***)
+9. React to a comment
+
+
+10. number of views POST
